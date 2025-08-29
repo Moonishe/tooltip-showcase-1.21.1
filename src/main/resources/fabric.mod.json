@@ -1,0 +1,35 @@
+{
+	"schemaVersion": 1,
+	"id": "tooltip-mod",
+	"version": "1.0.0",
+	"name": "Advanced Tooltip Mod",
+	"description": "Animated tooltips for items with smooth transitions",
+	"authors": ["Moonishe"],
+	"contact": {
+		"homepage": "https://example.com",
+		"sources": "https://github.com/yourusername/tooltip-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/tooltipanimated/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"com.tooltip.TooltipanimatedClient"
+		],
+		"modmenu": [
+			"com.tooltip.modmenu.ModMenuApiImpl"
+		]
+	},
+	"mixins": [
+		"tooltipanimated.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.0",
+		"fabric-api": "*",
+		"minecraft": "~1.21.1",
+		"java": ">=21"
+	},
+	"suggests": {
+		"modmenu": ">=11.0.0"
+	}
+}

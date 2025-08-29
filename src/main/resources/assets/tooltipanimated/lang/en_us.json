@@ -1,0 +1,11 @@
+{
+  "tooltip.tooltipanimated.durability": "Durability: %d/%d",
+  "tooltip.tooltipanimated.and_more": "...and %d more",
+  "tooltip.tooltipanimated.amount": "Amount: %d",
+  "tooltip.tooltipanimated.food": "Hunger: +%d",
+  "tooltip.tooltipanimated.saturation": "Saturation: +%.1f",
+  "tooltip.tooltipanimated.armor": "Armor: +%d",
+  "tooltip.tooltipanimated.toughness": "Toughness: +%.1f",
+  "tooltip.tooltipanimated.attack": "Attack Damage: +%.1f",
+  "tooltip.tooltipanimated.mining_speed": "Mining Speed: %.1fx"
+}

@@ -1,0 +1,11 @@
+{
+  "tooltip.tooltipanimated.durability": "Прочность: %d/%d",
+  "tooltip.tooltipanimated.and_more": "...и еще %d",
+  "tooltip.tooltipanimated.amount": "Количество: %d",
+  "tooltip.tooltipanimated.food": "Голод: +%d",
+  "tooltip.tooltipanimated.saturation": "Насыщение: +%.1f",
+  "tooltip.tooltipanimated.armor": "Броня: +%d",
+  "tooltip.tooltipanimated.toughness": "Прочность: +%.1f",
+  "tooltip.tooltipanimated.attack": "Урон от Атаки: +%.1f",
+  "tooltip.tooltipanimated.mining_speed": "Скорость Добычи: %.1fx"
+}
